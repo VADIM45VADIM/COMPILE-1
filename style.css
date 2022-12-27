@@ -5,7 +5,8 @@
     padding: 0%;
     color: aliceblue;
     background-color: rgb(110, 89, 89);
-    background-image: url("f3.jpg");
+    background-image: url("f3.jpeg");
+    background-size: 7rem;
     
 }
 
@@ -136,7 +137,7 @@ td:hover{
     padding: 30px;
     text-align: initial;
     background-color: rgba(0, 0, 0, 0.719);
-    background-image: url("font.jpg");
+    background-image: url("font.jpeg");
     box-shadow: 0px 0px 70px rgb(255, 12, 12);
 
 }
@@ -392,7 +393,7 @@ tr:hover{
 
 }
 .buttonEx{
-    background-color:#075c5b;
+    background-color:#0a8a2a;
     width: 200px;
     height: 100px;
     background-image: none;

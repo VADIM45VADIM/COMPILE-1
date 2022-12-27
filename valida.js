@@ -414,9 +414,9 @@ function executeEnsambler() {
         '\n<br>;nasm -f elf64 -o code.o code.asm && '+
         'ld -m elf_x86_64 -o code --entry=main code.o && '+ 
         './code\n<br>'
-    infoSambler +='<div class="codeMed">;Creado por: Izmael Guzman Murguia.\n<br>'+
-    ';Materia: Seminario de solucion de prioblemas de traductores de lenguajes II.\n<br>'+
-    ';Maestro: Michel Emanuel Lopez Franco.\n\n<br><br>'
+    infoSambler +='<div class="codeMed">;Creado por: Vadim.\n<br>'+
+    ';Canal: Vadim.\n<br>'+
+    ';Accciones: Suscribete, Dale Like, Comenta, Comparte.\n\n<br><br>'
     //#endregion
     let i=0
     infoSambler += '%macro prints 2\n<br>'+
@@ -4882,7 +4882,7 @@ switch (param1) {
             '\nint i;'+
             '\ns = "hola mundo";'+
             '\nprints(s);'+
-            '\ns = "Izmael Guzman Murguia";'+
+            '\ns = "Hello my name is VADIM";'+
             '\ni=0;'+
             '\nprints(s);'+
             '\nwhile(i<9){'+
